@@ -2,6 +2,10 @@
 
 Trong hướng dẫn này yêu cầu là các bạn đã có tài liệu support từ bên cung cấp dịch vụ. mã nguồn thư viện Alepay đã được mình custome lại từ bên nhà cung cấp dịch vụ. Bạn nào custome lại tốt hơn thì đóng góp luôn để mọi người có thư viện hay để dùng.
 
+Tiên quyết:<br/>
+Tạo thư mục Lib trong thư mục app của dự án laravel<br/>
+Sau đó pull code thư viện này về.<br/>
+Do trước đây mình không nghĩ làm thành thư viện nên đã thiết kế thư mục như vậy với namespace là namespace App\Lib\Alepays;<br/>
 1. Tạo hàm helper cấu hình như sau
 
 Dưới đây là tài khoản sandbox của mình các bạn có thể dùng bình thường
